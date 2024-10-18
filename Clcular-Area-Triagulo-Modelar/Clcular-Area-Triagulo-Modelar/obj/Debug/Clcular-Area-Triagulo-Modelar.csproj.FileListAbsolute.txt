@@ -1,7 +1,0 @@
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\bin\Debug\Clcular-Area-Triagulo-Modelar.exe.config
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\bin\Debug\Clcular-Area-Triagulo-Modelar.exe
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\bin\Debug\Clcular-Area-Triagulo-Modelar.pdb
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\obj\Debug\Clcular-Area-Triagulo-Modelar.csproj.AssemblyReference.cache
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\obj\Debug\Clcular-Area-Triagulo-Modelar.csproj.CoreCompileInputs.cache
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\obj\Debug\Clcular-Area-Triagulo-Modelar.exe
-C:\Users\johal\source\repos\Clcular-Area-Triagulo-Modelar\Clcular-Area-Triagulo-Modelar\obj\Debug\Clcular-Area-Triagulo-Modelar.pdb
