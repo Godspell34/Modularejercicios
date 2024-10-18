@@ -1,7 +1,0 @@
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\bin\Debug\Calcular-Factorial-Modular.exe.config
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\bin\Debug\Calcular-Factorial-Modular.exe
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\bin\Debug\Calcular-Factorial-Modular.pdb
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\obj\Debug\Calcular-Factorial-Modular.csproj.AssemblyReference.cache
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\obj\Debug\Calcular-Factorial-Modular.csproj.CoreCompileInputs.cache
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\obj\Debug\Calcular-Factorial-Modular.exe
-C:\Users\johal\source\repos\Calcular-Factorial-Modular\Calcular-Factorial-Modular\obj\Debug\Calcular-Factorial-Modular.pdb
