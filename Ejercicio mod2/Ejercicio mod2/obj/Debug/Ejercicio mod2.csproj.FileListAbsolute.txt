@@ -1,0 +1,7 @@
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\bin\Debug\Ejercicio mod2.exe.config
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\bin\Debug\Ejercicio mod2.exe
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\bin\Debug\Ejercicio mod2.pdb
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\obj\Debug\Ejercicio mod2.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\obj\Debug\Ejercicio mod2.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\obj\Debug\Ejercicio mod2.exe
+C:\Users\Silvio Mejia\source\repos\Ejercicio mod2\Ejercicio mod2\obj\Debug\Ejercicio mod2.pdb
